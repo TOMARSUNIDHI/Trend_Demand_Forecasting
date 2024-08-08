@@ -32,7 +32,8 @@ The model was used to make real-time predictions based on user input.
 [snapshot](![Screenshot 2024-08-08 132315](https://github.com/user-attachments/assets/71362f76-49d5-4237-9ff7-abae10007805)
 
 
-[res snapshot](https://github.com/user-attachments/assets/cdc63266-5a9e-428c-8adc-35f862df00cc)
+[res snapshot]![Screenshot 2024-08-08 132322](https://github.com/user-attachments/assets/afe0b31f-51ec-4473-a101-174c8d4a2793)
+
 
 
 # Conclusions
