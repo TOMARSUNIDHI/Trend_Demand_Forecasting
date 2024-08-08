@@ -7,7 +7,7 @@ Demand forecasting is an estimate of sales during a specified future period base
 Accurate demand forecasting serves as the cornerstone of business success, wielding its influence across a multitude of operational facets. The ability to predict future consumer preferences and market trends empowers organizations to make informed decisions, optimize resource allocation, and maintain a competitive edge
 
 # Strategic Approach and Workflow Diagram
-(![workflow](https://github.com/user-attachments/assets/d2a2b8fb-ddd7-4bec-84e6-aa8462073244)
+![workflow](https://github.com/user-attachments/assets/d2a2b8fb-ddd7-4bec-84e6-aa8462073244)
 
 
  Load essential libraries for data processing and model building.
@@ -29,7 +29,8 @@ Apply saved scaling during the prediction.
 Transform the user data for model compatibility.
 The model was used to make real-time predictions based on user input.
 ## Project Snapshot
-[snapshot](https://github.com/user-attachments/assets/0cda2590-7eb7-4fa2-8789-2c22e498eeaa)
+[snapshot](![Screenshot 2024-08-08 132315](https://github.com/user-attachments/assets/71362f76-49d5-4237-9ff7-abae10007805)
+
 
 [res snapshot](https://github.com/user-attachments/assets/cdc63266-5a9e-428c-8adc-35f862df00cc)
 
